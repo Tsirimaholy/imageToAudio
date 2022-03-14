@@ -1,0 +1,8 @@
+comtypes==1.1.11
+packaging==21.3
+Pillow==9.0.1
+pyparsing==3.0.7
+pypiwin32==223
+pytesseract==0.3.9
+pyttsx3==2.90
+pywin32==303
